@@ -1,5 +1,5 @@
 # Spring Boot Student App API
-Student app api using spring boot
+Student application restfull api using spring boot
 
 ## Getting Started
 
